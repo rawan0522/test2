@@ -10,4 +10,4 @@ class RandomuserProvider extends ChangeNotifier {
     notifyListeners();
   }
 
-}
+}//////////
